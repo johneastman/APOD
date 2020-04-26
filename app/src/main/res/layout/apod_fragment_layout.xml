@@ -66,8 +66,8 @@
                 android:id="@+id/apod_image"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:adjustViewBounds="true"
-                android:src="@mipmap/ic_earthrise_foreground"/>
+                android:adjustViewBounds="true"/>
+                <!--android:src="@mipmap/ic_earthrise_foreground"-->
 
             <TextView
                 android:id="@+id/apod_description"
