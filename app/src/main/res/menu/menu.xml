@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/raw_response"
+        android:title="Show Raw Response"/>
+
+    <item
+        android:id="@+id/apod_datepicker"
+        android:title="Get APOD by Date"/>
+</menu>

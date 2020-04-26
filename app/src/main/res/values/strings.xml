@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APOD</string>
+
+    <string name="apod_formatted_date">%d-%02d-%d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string> <!-- year, month, day-->
+</resources>
